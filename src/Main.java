@@ -3,7 +3,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("New Project created");
+		System.out.println("Checking for mrge Conflict");
+		
 
 	}
 
