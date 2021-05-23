@@ -6,7 +6,7 @@ public class Main {
 		System.out.println("Checking for mrge Conflict");
 		System.out.println("Lets merge both");
 		
-
+	
 	}
 
 }
